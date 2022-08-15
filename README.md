@@ -14,7 +14,7 @@ Java | PHP | JavaScript | C++ | Swift | Kotlin | CSS | HTML
 
 #### Librerias
 
-React | React Native | VueJS | NodeJS | Sequelize | JWT | JQuery | JQuery UI | JQuery Mobile | Bootstrap | PhoneGab
+React | React Native | VueJS | NodeJS | Sequelize | JWT | JQuery | JQuery UI | JQuery Mobile | Bootstrap | PhoneGap
 
 #### Base de datos
 
